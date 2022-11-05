@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="757219a5-442c-4773-89c4-88fdda2ccf20" name="Changes" comment="ozvuchka" />
+    <list default="true" id="757219a5-442c-4773-89c4-88fdda2ccf20" name="Changes" comment="ozvucka">
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -25,6 +27,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
     "last_opened_file_path": "D:/4_kurs/Cloud_technologies/Slider",
+    "nodejs_package_manager_path": "npm",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -37,7 +40,16 @@
       <option name="presentableId" value="Default" />
       <updated>1667653753080</updated>
       <workItem from="1667653757456" duration="211000" />
+      <workItem from="1667653987984" duration="408000" />
     </task>
+    <task id="LOCAL-00001" summary="ozvucka">
+      <created>1667654074646</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1667654074646</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -56,6 +68,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="ozvuchka" />
-    <option name="LAST_COMMIT_MESSAGE" value="ozvuchka" />
+    <MESSAGE value="ozvucka" />
+    <option name="LAST_COMMIT_MESSAGE" value="ozvucka" />
   </component>
 </project>
